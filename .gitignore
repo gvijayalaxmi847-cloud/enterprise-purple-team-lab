@@ -1,0 +1,6 @@
+﻿*.iso
+*.vmdk
+*.vhdx
+*.ova
+*.box
+.env
